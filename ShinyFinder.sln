@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinyFinder", "ShinyFinder\ShinyFinder.csproj", "{18F2F865-55EC-4D0C-8931-D1B0DFE8B259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F2F865-55EC-4D0C-8931-D1B0DFE8B259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F2F865-55EC-4D0C-8931-D1B0DFE8B259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F2F865-55EC-4D0C-8931-D1B0DFE8B259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F2F865-55EC-4D0C-8931-D1B0DFE8B259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF4E565-6B1A-4CD5-88D7-D1F0E4B34448}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShinyFinder": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
